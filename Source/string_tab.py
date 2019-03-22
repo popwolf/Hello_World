@@ -1,0 +1,6 @@
+print ("Languages:\nPython\nC\nJava")
+print ("\n\n")
+print ("Languages:\n\tPython\n\tC\n\tJava")
+print ("\n\n")
+print ("Languages:\t\nPython\t\nC\t\nJava")
+print ("\n\n")
