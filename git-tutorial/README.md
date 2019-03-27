@@ -1,1 +1,2 @@
-# Git ½Ì³Ì
+# Git Training
+	- Test with master branch
