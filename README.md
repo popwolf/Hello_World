@@ -1,6 +1,9 @@
 # Hello_World
 Just for test as a beginer. The way is long, the day is near noon.
 
+## 2nd/Apr/2019
+- Page 118 for Git
+
 
 ## 1st/Apr/2019
 - Page 53 for Git
